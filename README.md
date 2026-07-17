@@ -1,5 +1,4 @@
-# Foundation-of-the-DeSci-Identity-Manifesto
-Digital presence mitigation strategy for decentralized science publications.
+A reference architecture for cryptographically verifiable scientific identity across traditional academia, Web3, and Decentralized Science (DeSci).
 
 
 # Identity Manifesto
