@@ -216,7 +216,7 @@ This manifesto supports:
 
 # Official Profiles
 
-*(Insert all URLs here.)*
+*(https://br.gravatar.com/begnomar)*
 
 ---
 
